@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Environment variables or local configs
+.env
+
+# Output files
+output/
+*.log
+
+# Virtual environment (if created locally)
+venv/
