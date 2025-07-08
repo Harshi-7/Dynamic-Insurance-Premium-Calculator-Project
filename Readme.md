@@ -42,9 +42,9 @@ Design a system that calculates personalized insurance premiums based on real-ti
 Dynamic-Insurance-Premium-Calculator-Project/
 ├── app.py                      # Main script
 ├── data/
-│   └── insurance_dataset.csv   # Input CSV dataset
+│   └── insurance_dataset.csv    # Input CSV dataset
 ├── output/
-│   └── insurance_quotes.txt    # Output file
+│   └── insurance_quotes.txt     # Output file
 ├── models/
 │   ├── risk_model.py
 │   ├── pricing_model.py
